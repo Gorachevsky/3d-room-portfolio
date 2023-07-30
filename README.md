@@ -1,4 +1,4 @@
-<img src="" align="right" width="200" height="200" />
+<img src="https://github.com/Gorachevsky/3d-room-portfolio/blob/main/public/readme-icon.png?raw=true" align="right" width="200" height="200" />
 
 # 3D Room Portfolio | Study Case
 
