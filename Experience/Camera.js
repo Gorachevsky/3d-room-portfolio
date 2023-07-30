@@ -49,4 +49,6 @@ export default class Camera {
     this.orthographicCamera.bottom = -this.frustrum / 2;
     this.orthographicCamera.updateProjectionMatrix();
   }
+
+  update() {}
 }
