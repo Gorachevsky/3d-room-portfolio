@@ -10,3 +10,5 @@ This is a project copied entirely from [this video](https://www.youtube.com/watc
 - [Three.js](https://threejs.org/)
 - [GSAP](https://greensock.com/gsap)
 - [lil-gui](https://lil-gui.georgealways.com/)
+
+[CONTINUE](https://www.youtube.com/watch?v=rxTb9ys834w&t=20302s)
